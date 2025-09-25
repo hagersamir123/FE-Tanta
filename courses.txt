@@ -8,3 +8,5 @@ Yara
 
 Login
 remote
+Local
+
